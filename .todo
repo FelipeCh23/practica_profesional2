@@ -1,0 +1,48 @@
+# 🛠️ Tareas del Proyecto
+
+## 🚧 Debugeo
+
+- [ ] 🔍 Revisar los logs del servidor para identificar el error de conexión.
+- [x] 📝 Agregar más puntos de breakpoints en el código de la API.
+- [x] ✅ Corregir el error de sincronización con la base de datos.
+[ ] Solucionar error de visualización de la grilla
+[ ] Evitar restablecer la configuración de las entradas (combo)
+[ ] Corregir colocación de perforaciones del techo
+
+## 🎨 Interfaz Gráfica
+
+- [ ] 💻 Rediseñar la pantalla de inicio.
+- [ ] 🖌️ Cambiar los colores de la paleta para mejorar la accesibilidad.
+- [ ] 📱 Testear la interfaz en dispositivos móviles.
+[ ] Agregar una grilla al lienzo de dibujo
+[ ] Cambiar "sries" por "serie de retardos"
+[ ] Usar un solo color para las perforaciones cargadas y las vacías
+
+## 🔢 Lógica
+
+- [ ] 🧮 Refactorizar la función de cálculo de impuestos.
+- [ ] 🔄 Implementar la validación de datos del formulario.
+- [ ] 🧩 Dividir la lógica de autenticación en dos funciones separadas.
+[ ] Cambiar el orden de generación del diseño
+
+## 📦 Backend
+
+- [ ] 🚀 Implementar un endpoint para la búsqueda de productos.
+- [ ] 🔒 Asegurar que las rutas de la API están protegidas por autenticación.
+- [ ] 🧑‍💻 Actualizar las dependencias del servidor.
+
+## Refactorización
+
+## 📑 Documentación
+
+- [ ] 📚 Completar la documentación sobre el uso de la API REST.
+- [ ] ✍️ Escribir los casos de uso para la nueva funcionalidad.
+- [x] ✅ Corregir errores tipográficos en la documentación del proyecto.
+[ ] Añadir un pdf que explique el uso del software
+[ ] Agregar documentación para la función ...
+
+## ✅ Testing
+
+- [ ] 🧪 Escribir pruebas unitarias para la función de ordenamiento.
+- [ ] 📝 Revisar los casos de prueba de integración.
+- [ ] 🔄 Ejecutar pruebas de regresión después de los últimos cambios.
